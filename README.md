@@ -4,7 +4,7 @@
 
 **Computer Engineering Student | Cybersecurity Specialist | Top 1% on TryHackMe**
 
-I am a Computer Engineering junior at **Ain Shams University & University of East London** with a deep passion for cybersecurity, penetration testing, and system architecture. Currently ranked in the **Top 1% on TryHackMe** and holding the **#1 spot in Egypt** this month. 🇪🇬
+I am a Computer Engineering junior at **Ain Shams University & University of East London** with a deep passion for cybersecurity, penetration testing, and system architecture. Currently ranked in the **Top 1% on TryHackMe** and formerly holding the **#1 spot in Egypt** for December 2025. 🇪🇬
 
 ---
 
@@ -55,7 +55,9 @@ Django | Flask | HTML/CSS | React.js (basic)
 ![TryHackMe Badge](https://tryhackme-badges.s3.eu-west-2.amazonaws.com/YourTHMUsername.png)  
 
 - **THM Global Rank:** Top 1% 🌍  
-- **Monthly Rank (Egypt):** #1 🏆
+- **December 2025 Monthly Rank (Egypt):** #1 🏆
+- **December 2025 Monthly Rank (Global):** #16 🏆
+
   
 ---
 
